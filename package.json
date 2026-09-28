@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/zonepath",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zone CSV/TSV path tables for quick inspection and cleanup.",
+  "bin": {
+    "zonepath": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/zonepath.git"
+  },
+  "homepage": "https://theworker02.github.io/zonepath/",
+  "keywords": [
+    "zone",
+    "path",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
